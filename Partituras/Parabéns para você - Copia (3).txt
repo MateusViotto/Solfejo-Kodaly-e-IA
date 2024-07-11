@@ -1,0 +1,11 @@
+clef-G2
+timeSignature-3/4
+rest-half
+note-E4_eighth
+note-E4_eighth
+barline
+note-F4_eighth
+note-E4_eighth
+note-A4_eighth
+note-G4_eighth
+
